@@ -19,3 +19,5 @@
 </a>
 
 <!-- Made with [OSS Insight](https://ossinsight.io/) -->
+
+[![Contribution Time Distribution of @Chris-Mwiti](https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?period=all_times&user_id=126157554&image_size=auto&color_scheme=dark)](https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution?period=all_times&user_id=126157554)
